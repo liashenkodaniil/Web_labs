@@ -7,4 +7,4 @@
 ГРУПА:      КВ-33
 
 URL на звіт:
-    https://docs.google.com/document/d/1jD3YGarTueN_ZU8iYmv-XYn4TBFPSw63/edit
+    https://docs.google.com/document/d/1J3tVYqE2Y7N6yofI4wDZJCnOQ0j15i3jK441NfVdfeA/edit?usp=sharing
