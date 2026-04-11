@@ -1,10 +1,9 @@
 ТЕМА ЛАБОРАТОРНОЇ РОБОТИ:
-    Розробка функціональності Web-додатка
-    мовою Javascript
+    Розробка Web-додатка засобами Javascript/VueJS
 ЗАГАЛЬНЕ ЗАВДАННЯ:
-    Розробити функціональність для статитичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC
+    Адаптувати програмний код ЛР№2 до вимог фреймворка VueJS та забезпечити завантаження необхідних даних з Web-сервера
 ВИКОНАВ:    Ляшенко Даніїл Денисович
 ГРУПА:      КВ-33
 
 URL на звіт:
-    https://docs.google.com/document/d/1J3tVYqE2Y7N6yofI4wDZJCnOQ0j15i3jK441NfVdfeA/edit?usp=sharing
+    https://docs.google.com/document/d/1tfC25OiUslV8GCdkRdaQ4mu9lMe-TBjDaeTN0_wEonc/edit?tab=t.0

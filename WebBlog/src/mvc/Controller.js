@@ -1,5 +1,3 @@
-
-
 import { BlogModel } from './Model.js';
 import { BlogView  } from './View.js';
 
